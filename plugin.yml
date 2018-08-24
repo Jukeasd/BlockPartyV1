@@ -1,0 +1,8 @@
+name: BlockParty
+main: hu.Ricsi.BlockParty.BlockParty
+version: 0.0.2
+description: SimpleBlockParty
+depend: [BestPerms]
+author: Ricsi20 , Juke40
+#Commads : null
+#Perms : *
